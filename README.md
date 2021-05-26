@@ -3,12 +3,15 @@
 -->
 
 ### Hi there 👋
-My name is Nitin Raturi and I am a freelance python developer. Primarily works with Python, Django, Javascript and Scrapy.
+My name is Nitin Raturi and I am a top-rated freelancer on Upwork with a 100% success score specializes in Web development, scripting & automation and data science.
 
 ## Relative Links
 - [Website](https://raturi.in)
 - [Twitter](https://twitter.com/raturinitin)
-- [Youtube](https://www.youtube.com/channel/UCgo0xUFN4r2fh3judtntwPg)
+- [Youtube](https://www.youtube.com/c/raturitechmedia)
+
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/{nitinraturi}/count.svg)
 
 ## Reach | Connect
 For queries you can drop me an email at **develop@raturi.in**
