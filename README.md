@@ -18,6 +18,3 @@ My name is Nitin Raturi and I am a top-rated freelancer on Upwork with a 100% su
 - [Youtube](https://www.youtube.com/c/raturitechmedia)
 - [Github Organization](https://github.com/raturitechmedia)
 
-
-## Profile Visit Count
-![Visitor Count](https://profile-counter.glitch.me/{nitinraturi}/count.svg)
